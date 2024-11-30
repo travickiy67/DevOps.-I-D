@@ -29,7 +29,7 @@
 
 В качестве ответа пришлите скриншоты с настройками проекта и результатами выполнения сборки.  
 Скрин 1.1  
-![alt text](https://github.com/travickiy67/homework-git/blob/main/img/jenkins1.2.png)  
+![alt text](https://github.com/travickiy67/DevOps.-I-D/blob/main/img/jenkins1.2.png)  
 ---
 
 ### Задание 2
