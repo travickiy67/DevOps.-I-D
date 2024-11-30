@@ -28,22 +28,29 @@
 3. Создайте в jenkins Freestyle Project, подключите получившийся репозиторий к нему и произведите запуск тестов и сборку проекта ```go test .``` и  ```docker build .```.  
 
 В качестве ответа пришлите скриншоты с настройками проекта и результатами выполнения сборки.  
+
 **Скрин 1.1**  
+
 ![alt text](https://github.com/travickiy67/DevOps.-I-D/blob/main/img/jenkins1.2.png)  
 
 **Скрин 1.2**  
+
 ![alt text](https://github.com/travickiy67/DevOps.-I-D/blob/main/img/jenkins1.5.png)  
 
 **Скрин 1.2**  
+
 ![alt text](https://github.com/travickiy67/DevOps.-I-D/blob/main/img/jenkins1.8.png)  
 
 **Скрин 1.2**  
+
 ![alt text](https://github.com/travickiy67/DevOps.-I-D/blob/main/img/jenkins1.11.png)  
 
 **Скрин 1.2**  
+
 ![alt text](https://github.com/travickiy67/DevOps.-I-D/blob/main/img/jenkins1.12.png)  
 
 **Скрин 1.2**  
+
 ![alt text](https://github.com/travickiy67/DevOps.-I-D/blob/main/img/jenkins1.13.png)  
 
 ---
