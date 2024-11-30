@@ -37,19 +37,19 @@
 
 ![alt text](https://github.com/travickiy67/DevOps.-I-D/blob/main/img/jenkins1.5.png)  
 
-**Скрин 1.2**  
+**Скрин 1.3**  
 
 ![alt text](https://github.com/travickiy67/DevOps.-I-D/blob/main/img/jenkins1.8.png)  
 
-**Скрин 1.2**  
+**Скрин 1.4**  
 
 ![alt text](https://github.com/travickiy67/DevOps.-I-D/blob/main/img/jenkins1.11.png)  
 
-**Скрин 1.2**  
+**Скрин 1.5**  
 
 ![alt text](https://github.com/travickiy67/DevOps.-I-D/blob/main/img/jenkins1.12.png)  
 
-**Скрин 1.2**  
+**Скрин 1.6**  
 
 ![alt text](https://github.com/travickiy67/DevOps.-I-D/blob/main/img/jenkins1.13.png)  
 
