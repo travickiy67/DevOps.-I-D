@@ -66,15 +66,16 @@
 
 **Скрин 2.1**  
 
-![alt text](https://github.com/travickiy67/DevOps.-I-D/blob/main/img/jenkins2.1.png)  
+![alt text](https://github.com/travickiy67/DevOps.-I-D/blob/main/img/img%202.1.png)  
 
 **Скрин 2.2**  
 
-![alt text](https://github.com/travickiy67/DevOps.-I-D/blob/main/img/jenkins2.2.png)  
+![alt text](https://github.com/travickiy67/DevOps.-I-D/blob/main/img/img%202.2.png)  
 
 **Скрин 2.3**  
 
-![alt text](https://github.com/travickiy67/DevOps.-I-D/blob/main/img/jenkins2.3.png)  
+![alt text](https://github.com/travickiy67/DevOps.-I-D/blob/main/img/img%202.3.png)  
+
 ---
 
 ### Задание 3
