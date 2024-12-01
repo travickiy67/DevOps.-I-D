@@ -31,27 +31,27 @@
 
 **Скрин 1.1**  
 
-![alt text](https://github.com/travickiy67/DevOps.-I-D/blob/main/img/jenkins1.2.png)  
+![alt text](https://github.com/travickiy67/DevOps.-I-D/blob/main/img/jenkins1.1.png)  
 
 **Скрин 1.2**  
 
-![alt text](https://github.com/travickiy67/DevOps.-I-D/blob/main/img/jenkins1.5.png)  
+![alt text](https://github.com/travickiy67/DevOps.-I-D/blob/main/img/jenkins1.2.png)  
 
 **Скрин 1.3**  
 
-![alt text](https://github.com/travickiy67/DevOps.-I-D/blob/main/img/jenkins1.8.png)  
+![alt text](https://github.com/travickiy67/DevOps.-I-D/blob/main/img/jenkins1.3.png)  
 
 **Скрин 1.4**  
 
-![alt text](https://github.com/travickiy67/DevOps.-I-D/blob/main/img/jenkins1.11.png)  
+![alt text](https://github.com/travickiy67/DevOps.-I-D/blob/main/img/jenkins1.4.png)  
 
 **Скрин 1.5**  
 
-![alt text](https://github.com/travickiy67/DevOps.-I-D/blob/main/img/jenkins1.12.png)  
+![alt text](https://github.com/travickiy67/DevOps.-I-D/blob/main/img/jenkins1.5.png)  
 
 **Скрин 1.6**  
 
-![alt text](https://github.com/travickiy67/DevOps.-I-D/blob/main/img/jenkins1.13.png)  
+![alt text](https://github.com/travickiy67/DevOps.-I-D/blob/main/img/jenkins1.6.png)  
 
 ---
 
@@ -66,15 +66,19 @@
 
 **Скрин 2.1**  
 
-![alt text](https://github.com/travickiy67/DevOps.-I-D/blob/main/img/img%202.1.png)  
+![alt text](https://github.com/travickiy67/DevOps.-I-D/blob/main/img/jenkins2.1.png)  
 
 **Скрин 2.2**  
 
-![alt text](https://github.com/travickiy67/DevOps.-I-D/blob/main/img/img%202.2.png)  
+![alt text](https://github.com/travickiy67/DevOps.-I-D/blob/main/img/jenkins2.2.png)  
 
 **Скрин 2.3**  
 
-![alt text](https://github.com/travickiy67/DevOps.-I-D/blob/main/img/img%202.3.png)  
+![alt text](https://github.com/travickiy67/DevOps.-I-D/blob/main/img/jenkins2.3.png)  
+
+**Скрин 2.4**  
+
+![alt text](https://github.com/travickiy67/DevOps.-I-D/blob/main/img/jenkins2.4.png)  
 
 ---
 
