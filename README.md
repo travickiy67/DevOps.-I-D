@@ -31,7 +31,7 @@
 
 **Скрин 1.1**  
 
-![alt text](https://github.com/travickiy67/DevOps.-I-D/blob/main/img/jenkins1.1.png)  
+![alt text](https://github.com/travickiy67/DevOps.-I-D/blob/main/img/jenkins1.0.png)  
 
 **Скрин 1.2**  
 
