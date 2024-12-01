@@ -49,6 +49,8 @@
 
 ![alt text](https://github.com/travickiy67/DevOps.-I-D/blob/main/img/jenkins1.5.png)  
 
+**На 15 сборке команда push прошла успешною**  
+
 **Скрин 1.6**  
 
 ![alt text](https://github.com/travickiy67/DevOps.-I-D/blob/main/img/jenkins1.6.png)  
