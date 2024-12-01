@@ -62,8 +62,19 @@
 1. Создайте новый проект pipeline.
 2. Перепишите сборку из задания 1 на declarative в виде кода.
 
-В качестве ответа пришлите скриншоты с настройками проекта и результатами выполнения сборки.
+В качестве ответа пришлите скриншоты с настройками проекта и результатами выполнения сборки.  
 
+**Скрин 2.1**  
+
+![alt text](https://github.com/travickiy67/DevOps.-I-D/blob/main/img/jenkins2.1.png)  
+
+**Скрин 2.2**  
+
+![alt text](https://github.com/travickiy67/DevOps.-I-D/blob/main/img/jenkins2.2.png)  
+
+**Скрин 2.3**  
+
+![alt text](https://github.com/travickiy67/DevOps.-I-D/blob/main/img/jenkins2.3.png)  
 ---
 
 ### Задание 3
