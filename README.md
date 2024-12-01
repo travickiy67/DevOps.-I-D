@@ -49,7 +49,7 @@
 
 ![alt text](https://github.com/travickiy67/DevOps.-I-D/blob/main/img/jenkins1.5.png)  
 
-**На 15 сборке команда push прошла успешною**  
+**На 15 сборке команда push прошла успешно.**  
 
 **Скрин 1.6**  
 
@@ -93,8 +93,37 @@
 1. Измените pipeline так, чтобы вместо Docker-образа собирался бинарный go-файл. Команду можно скопировать из Dockerfile.
 1. Загрузите файл в репозиторий с помощью jenkins.
 
-В качестве ответа пришлите скриншоты с настройками проекта и результатами выполнения сборки.
+В качестве ответа пришлите скриншоты с настройками проекта и результатами выполнения сборки.  
 
+**Скрин 3.1**  
+
+![alt text](https://github.com/travickiy67/DevOps.-I-D/blob/main/img/jenkins3.1.png)  
+
+**Скрин 3.2**  
+
+![alt text](https://github.com/travickiy67/DevOps.-I-D/blob/main/img/jenkins3.2.png)  
+
+**Скрин 3.3**  
+
+![alt text](https://github.com/travickiy67/DevOps.-I-D/blob/main/img/jenkins3.3.png)  
+
+**Скрин 3.4**  
+
+![alt text](https://github.com/travickiy67/DevOps.-I-D/blob/main/img/jenkins3.4.png)  
+
+**Скрин 3.5**  
+
+![alt text](https://github.com/travickiy67/DevOps.-I-D/blob/main/img/jenkins3.5.png)  
+
+**Скрин 3.6**  
+
+![alt text](https://github.com/travickiy67/DevOps.-I-D/blob/main/img/jenkins3.6.png)  
+
+**Это мои удачные и не удачные попытки сборок.**
+
+**Скрин 3.7**  
+
+![alt text](https://github.com/travickiy67/DevOps.-I-D/blob/main/img/jenkins3.7.png)  
 ---
 ## Дополнительные задания* (со звёздочкой)
 
